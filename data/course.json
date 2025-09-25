@@ -1,0 +1,62 @@
+{
+  "term": "Spring",
+  "year": "2005",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Health and Medicine",
+      "Public Health"
+    ],
+    [
+      "Humanities",
+      "Religion"
+    ],
+    [
+      "Society",
+      "The Developing World"
+    ],
+    [
+      "Humanities",
+      "History",
+      "African History"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Cultural Anthropology"
+    ]
+  ],
+  "legacy_uid": "61e38b68-d4f7-0ab6-ff28-5b7a1092508a",
+  "instructors": {
+    "content": [
+      "87033dcc-afcc-a2b3-74d4-87abae8d9f54"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "4311afff-c2b6-d9fa-c514-db4ea8c2bdff",
+    "website": "21a-460j-medicine-religion-and-politics-in-africa-and-the-african-diaspora-spring-2005"
+  },
+  "course_title": "Medicine, Religion and Politics in Africa and the African Diaspora",
+  "course_description": "This course provides an exploration of colonial and postcolonial clashes between theories of healing and embodiment in the African world and those of western bio-medicine. It examines how Afro-Atlantic religious traditions have challenged western conceptions of illness, healing, and the body and have also offered alternative notions of morality, rationality, kinship, gender, and sexuality. It also analyzes whether contemporary western bio-medical interventions reinforce colonial or imperial power in the effort to promote global health in Africa and the African diaspora.\n",
+  "department_numbers": [
+    "21A",
+    "WGS"
+  ],
+  "extra_course_numbers": "WGS.620J",
+  "primary_course_number": "21A.460J",
+  "course_image_thumbnail": {
+    "content": "01bce92b-fc36-457a-35ad-ec3da5d4955f",
+    "website": "21a-460j-medicine-religion-and-politics-in-africa-and-the-african-diaspora-spring-2005"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "site_uid": "f322e1f7-f1fd-4aeb-8369-b28496cc99e3",
+  "site_short_id": "21a.460j-spring-2005",
+  "site_url_path": "courses/21a-460j-medicine-religion-and-politics-in-africa-and-the-african-diaspora-spring-2005",
+  "title": "Course Metadata"
+}
