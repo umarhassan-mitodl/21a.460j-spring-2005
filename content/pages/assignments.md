@@ -2,8 +2,6 @@
 content_type: page
 description: Assignment provides complete set of problem statements along with their
   solutions. Or Problems to test students understanding of course material
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
