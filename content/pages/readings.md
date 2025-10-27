@@ -29,7 +29,7 @@ Janzen, John M. *The Quest for Therapy in Lower Zaire*. Berkeley, CA: University
 
 Stoller, Paul. *The Taste of Ethnographic Things:* *The Senses in Anthropology*. Philadelphia, PA: University of Pennsylvania Press, 1989. ISBN: 9780812212921.
 
-U.S. Department of Health and Human Services. [*Mental Health: Culture, Race, and Ethnicity. A Supplement to Mental Health: A Report of the Surgeon General*](https://www.ncbi.nlm.nih.gov/books/NBK44243/pdf/Bookshelf_NBK44243.pdf). 2001.
+U.S. Department of Health and Human Services. {{% resource_link "1538931d-ca7f-4e86-a81b-9b2ba3e38a83" "*Mental Health: Culture, Race, and Ethnicity. A Supplement to Mental Health: A Report of the Surgeon General*" %}}. 2001.
 
 ## Recommended Texts
 
@@ -39,15 +39,15 @@ Peard, Julyan. *Race, Place, and Medicine: The Idea of the Tropics in Nineteenth
 
 ## Films
 
-Directed by Zola Maseko. [*The Life and Times of Sara Baartman - The Hottentot Venus*](http://www.imdb.com/title/tt0290726/)*.* 1998, 53 minutes.
+Directed by Zola Maseko. {{% resource_link "c1ce1af2-25b5-48f6-9df9-c896b7d7505d" "*The Life and Times of Sara Baartman - The Hottentot Venus*" %}}*.* 1998, 53 minutes.
 
-Directed by Fred Zinnemann. [*The Nun's Story*](http://www.imdb.com/title/tt0053131/). 1959, 149 minutes.
+Directed by Fred Zinnemann. {{% resource_link "a132f3e2-d770-441e-8a10-8a06b7773fc3" "*The Nun's Story*" %}}. 1959, 149 minutes.
 
 *Strange Beliefs: Sir Edward Evans-Pritchard.* Film for the Humanities and Sciences, Inc. 1990, 52 minutes.
 
-Directed by Maya Deren. [*Divine Horsemen: The Living Gods of Haiti*](http://www.imdb.com/title/tt0123802/)*.* 1985, 52 minutes.
+Directed by Maya Deren. {{% resource_link "d12905a8-75a7-488f-85fa-739461e8202e" "*Divine Horsemen: The Living Gods of Haiti*" %}}*.* 1985, 52 minutes.
 
-Directed by Anne Lescot and Laurence Magloire. [*Of Men and Gods*](http://www.imdb.com/title/tt0391059/)*.* 2002, 52 minutes.
+Directed by Anne Lescot and Laurence Magloire. {{% resource_link "629069d9-759a-49f0-a3f7-b7e2d803a695" "*Of Men and Gods*" %}}*.* 2002, 52 minutes.
 
 Directed by Zola Maseko. *The Return of Sara Baartman.* 2003, 55 minutes.
 
@@ -113,7 +113,7 @@ Section Three: Historical Ideologies of Sexuality, Race, and Madness
 
 Gilman, Sander L. *Difference and Pathology: Stereotypes of Sexuality, Race and Madness.* Ithaca, NY: Cornell University Press, 1985, introduction and chapter 3, pp. 15-35, 76-108. ISBN: 9780801493324.
 
-Directed by Zola Maseko. [*The Life and Times of Sara Baartman - The Hottentot Venus*](http://www.imdb.com/title/tt0290726/)*.* 1998, 53 minutes.
+Directed by Zola Maseko. {{% resource_link "c1ce1af2-25b5-48f6-9df9-c896b7d7505d" "*The Life and Times of Sara Baartman - The Hottentot Venus*" %}}*.* 1998, 53 minutes.
 
 *Lecture 8*
 
@@ -151,13 +151,13 @@ Peard, Julyan. *Race, Place, and Medicine: The Idea of the Tropics in Nineteenth
 
 Hunt, Nancy Rose. *A Colonial Lexicon: Of Birth Ritual, Medicalization, and Mobility in the Congo*. Durham, NC: Duke University Press, 1999, chapter 5, pp. 196-236. ISBN: 9780822323662.
 
-Directed by Fred Zinnemann. [*The Nun's Story*](http://www.imdb.com/title/tt0053131/). 1959, 149 minutes.
+Directed by Fred Zinnemann. {{% resource_link "a132f3e2-d770-441e-8a10-8a06b7773fc3" "*The Nun's Story*" %}}. 1959, 149 minutes.
 
 *Lecture 13*
 
 ———. *A Colonial Lexicon: Of Birth Ritual, Medicalization, and Mobility in the Congo*. Durham, NC: Duke University Press, 1999, chapter 6, pp. 237-280. ISBN: 9780822323662.
 
-Directed by Fred Zinnemann. [*The Nun's Story*](http://www.imdb.com/title/tt0053131/). 1959, 149 minutes.
+Directed by Fred Zinnemann. {{% resource_link "a132f3e2-d770-441e-8a10-8a06b7773fc3" "*The Nun's Story*" %}}. 1959, 149 minutes.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Part Three: Anthropological (Re)Constructions of "African" Religion, Healing and Embodiment**
@@ -213,7 +213,7 @@ Section Eight: Sensory Ethnography in Niger
 
 Stoller, Paul. *The Taste of Ethnographic Things: The Senses in Anthropology*. Philadelphia, PA: University of Pennsylvania Press, 1989. ISBN: 9780812212921. (Entire book.)
 
-Directed by Maya Deren. [*Divine Horsemen: The Living Gods of Haiti*](http://www.imdb.com/title/tt0123802/)*.* 1985, 52 minutes.
+Directed by Maya Deren. {{% resource_link "d12905a8-75a7-488f-85fa-739461e8202e" "*Divine Horsemen: The Living Gods of Haiti*" %}}*.* 1985, 52 minutes.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Part Four: Cosmopolitan Medicine, Race, Gender, and Inequalities**
@@ -227,7 +227,7 @@ Section Nine: Religion, Medicine, and the Medical Pluralism in Haiti
 
 Brodwin, Paul. *Medicine and Morality in Haiti: The Contest for Healing Power*. Cambridge, England: Cambridge University Press, 1996, introduction and chapters 1-2, pp. 1-55. ISBN: 9780521570299.
 
-Directed by Anne Lescot and Laurence Magloire. [*Of Men and Gods*](http://www.imdb.com/title/tt0391059/)*.* 2002, 52 minutes.
+Directed by Anne Lescot and Laurence Magloire. {{% resource_link "629069d9-759a-49f0-a3f7-b7e2d803a695" "*Of Men and Gods*" %}}*.* 2002, 52 minutes.
 
 *Lecture 22* 
 
@@ -241,7 +241,7 @@ Section Ten: Contemporary Psychiatry: Race, Gender, and the Mind
 
 *Lecture 23*
 
-[U.S. Department of Health and Human Services](https://www.hhs.gov/). *Mental Health: Culture, Race, and Ethnicity, A Supplement to Mental Health: A Report of the Surgeon General*. Skim chapters 1-2, read chapter 3, pp. 53-76.
+{{% resource_link "a1c68f83-dcdb-4343-ba6f-9e92c3bb9f0d" "U.S. Department of Health and Human Services" %}}. *Mental Health: Culture, Race, and Ethnicity, A Supplement to Mental Health: A Report of the Surgeon General*. Skim chapters 1-2, read chapter 3, pp. 53-76.
 
 Littlewood, Roland, and Maurice Lipsedge. *Aliens and Alienists: Ethnic Minorities and Psychiatry*. Harmondsworth, England: Penguin Books, 1982, chapter 3, pp. 61-82. ISBN: 9780140221282.
 
